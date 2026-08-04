@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Editor Agents Portal",
+  "description": "Hire and manage AI Video Editor Agents for YouTube channels with prorated monthly billing due on the 5th of each month.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
